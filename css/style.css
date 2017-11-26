@@ -98,7 +98,7 @@ figure {
   bottom: 0;
   right: 0;
   z-index: 1;
-  background: rgba(66, 64, 64, 0.9);
+  background: rgba(66, 64, 64, 0.411);
 }
 
 .fh5co-overlay {
@@ -585,7 +585,7 @@ figure {
 
 #fh5co-services .fh5co-number {
   font-size: 30px;
-  color: #1fb5f6;
+  color: #095f3e;
   position: relative;
   padding-top: 10px;
   font-style: italic;
@@ -601,7 +601,7 @@ figure {
   height: 3px;
   top: 0;
   left: 0;
-  background: #1fb5f6;
+  background: #095f3e;
 }
 #fh5co-services .fh5co-icon {
   margin-bottom: 30px;
