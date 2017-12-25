@@ -1,13 +1,10 @@
 
 TITLE: 
-Guardian - 100% Fully Responsive Free HTML5 Bootstrap Template
+CratolTech - Technology Service Platform
+
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Cratol
 
 
 CREDITS:
